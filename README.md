@@ -1,0 +1,1 @@
+A real-time currency converter web application that supports 150+ countries. It uses a live exchange rate API to provide accurate and up-to-date currency conversion with a simple and user-friendly interface.
